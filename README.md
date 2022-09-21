@@ -2,7 +2,7 @@
 
 ## Ενότητα 1
 Κεφάλαιο 1: Βασικές Έννοιες της Πληροφορικής
-<br>[Κουίζ Κεφαλαίου 1](Lesson 1/Enotita1-Kefalaio1/index.html<br>
+<br>[Κουίζ Κεφαλαίου 1](Lesson 1/Enotita1-Kefalaio1/index.html) <br>
 [Game](Lesson%201/Help%20The%20Man.exe)
 ## Ενότητα 2
 ## Ενότητα 3
